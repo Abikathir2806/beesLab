@@ -1,0 +1,1 @@
+print("Number of Characters:",len("Write something about Beezlabs")-"Write something about Beezlabs".count(" "))
